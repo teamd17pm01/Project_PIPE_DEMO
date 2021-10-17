@@ -1,0 +1,6 @@
+/home/hung-deks/Projects/PipeTest/PipeTest/bin/Debug/PipeTest.exe
+/home/hung-deks/Projects/PipeTest/PipeTest/bin/Debug/PipeTest.pdb
+/home/hung-deks/Projects/PipeTest/PipeTest/obj/x86/Debug/PipeTest.csprojAssemblyReference.cache
+/home/hung-deks/Projects/PipeTest/PipeTest/obj/x86/Debug/PipeTest.csproj.CoreCompileInputs.cache
+/home/hung-deks/Projects/PipeTest/PipeTest/obj/x86/Debug/PipeTest.exe
+/home/hung-deks/Projects/PipeTest/PipeTest/obj/x86/Debug/PipeTest.pdb

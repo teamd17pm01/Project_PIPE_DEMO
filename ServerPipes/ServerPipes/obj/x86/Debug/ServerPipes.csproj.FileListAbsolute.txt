@@ -1,0 +1,6 @@
+/home/hung-deks/Projects/ServerPipes/ServerPipes/bin/Debug/ServerPipes.exe
+/home/hung-deks/Projects/ServerPipes/ServerPipes/bin/Debug/ServerPipes.pdb
+/home/hung-deks/Projects/ServerPipes/ServerPipes/obj/x86/Debug/ServerPipes.csprojAssemblyReference.cache
+/home/hung-deks/Projects/ServerPipes/ServerPipes/obj/x86/Debug/ServerPipes.csproj.CoreCompileInputs.cache
+/home/hung-deks/Projects/ServerPipes/ServerPipes/obj/x86/Debug/ServerPipes.exe
+/home/hung-deks/Projects/ServerPipes/ServerPipes/obj/x86/Debug/ServerPipes.pdb

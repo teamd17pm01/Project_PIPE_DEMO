@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A96DD52F-2EB9-4F37-97B9-007A1A6A8E86}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PipeTest/Program.cs">
+    <Files>
+      <File FileName="PipeTest/Program.cs" Line="8" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PipeTest" expanded="True">
+            <Node name="PipeTest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.PipeTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTest", "ThreadTest\ThreadTest.csproj", "{EAA2F815-08C1-4EC7-8879-4C07E7614C68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA2F815-08C1-4EC7-8879-4C07E7614C68}.Debug|x86.ActiveCfg = Debug|x86
+		{EAA2F815-08C1-4EC7-8879-4C07E7614C68}.Debug|x86.Build.0 = Debug|x86
+		{EAA2F815-08C1-4EC7-8879-4C07E7614C68}.Release|x86.ActiveCfg = Release|x86
+		{EAA2F815-08C1-4EC7-8879-4C07E7614C68}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

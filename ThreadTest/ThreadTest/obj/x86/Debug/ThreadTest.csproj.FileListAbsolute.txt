@@ -1,0 +1,6 @@
+/home/hung-deks/Projects/ThreadTest/ThreadTest/bin/Debug/ThreadTest.exe
+/home/hung-deks/Projects/ThreadTest/ThreadTest/bin/Debug/ThreadTest.pdb
+/home/hung-deks/Projects/ThreadTest/ThreadTest/obj/x86/Debug/ThreadTest.csprojAssemblyReference.cache
+/home/hung-deks/Projects/ThreadTest/ThreadTest/obj/x86/Debug/ThreadTest.csproj.CoreCompileInputs.cache
+/home/hung-deks/Projects/ThreadTest/ThreadTest/obj/x86/Debug/ThreadTest.exe
+/home/hung-deks/Projects/ThreadTest/ThreadTest/obj/x86/Debug/ThreadTest.pdb
